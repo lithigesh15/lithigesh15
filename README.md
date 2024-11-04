@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lithigesh</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🌱 I’m currently learning **Spring, Microservices**
+- 🌱 I’m currently learning **Java, Spring, Microservices**
 
 - 📫 How to reach me **lithigesh@gmail.com**
 

@@ -1,12 +1,12 @@
 ---
-
-<h1 align="center">Hi 👋, I'm Lithigesh</h1>
-<h3 align="center">A Passionate Software Developer and Lifelong Learner</h3>
-
-- 📘 **Currently Learning**: Java, Flutter  
-- ✉️ **How to Reach Me**: [lithigesh@gmail.com](mailto:lithigesh@gmail.com)
-
+name: Lithigesh
+title: A Passionate Software Developer and Lifelong Learner
+currently_learning: 
+  - Java
+  - Flutter
+contact: lithigesh@gmail.com
 ---
+
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">

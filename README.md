@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lithigesh</h1>
+<h1 align="center">Hi 👋, I'm Lithigesh P G</h1>
 <h3 align="center">A Passionate Software Developer and Lifelong Learner</h3>
 
 - 📘 **Currently Learning**: Java, Flutter  

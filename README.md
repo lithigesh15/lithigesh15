@@ -47,8 +47,12 @@
 ---
 
 <h3 align="left">✨ About Me:</h3>
-- 🔭 I’m working on sharpening my skills in software development and contributing to open-source projects.  
-- 🌱 Always exploring new technologies to stay updated with the latest industry trends.  
+
+- 🔭 I’m working on sharpening my skills in software development and contributing to open-source projects.
+
+- 🌱 Always exploring new technologies to stay updated with the latest industry trends.
+
 - 🚀 Open to collaborating on exciting projects and innovative ideas!
 
 ---
+

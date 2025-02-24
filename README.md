@@ -23,9 +23,6 @@
   <a href="https://leetcode.com/lithigesh/" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode - lithigesh" height="30" width="40" />
   </a>
-  <a href="mailto:lithigesh@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Logo.svg" alt="Gmail - lithigesh@gmail.com" height="30" width="40" />
-  </a>
 </p>
 
 
